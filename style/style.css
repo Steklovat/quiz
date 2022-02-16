@@ -358,6 +358,9 @@ h1, h2, h3, p {
     .footer {
         font-size: 6px;
         line-height: 7px;
+        padding-left: 20px;
+        padding-right: 20px;
+        text-align: center;
     }
 
 }
